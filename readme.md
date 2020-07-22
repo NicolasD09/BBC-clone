@@ -1,6 +1,6 @@
 # BBC website clone
 
-[preview image](https://github.com/NicolasD09/BBC-clone/blob/master/Capture.PNG)
+![preview image](https://github.com/NicolasD09/BBC-clone/blob/master/Capture.PNG)
 
 ## About
 This was part of a web development course that included this project  
